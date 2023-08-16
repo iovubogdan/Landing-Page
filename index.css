@@ -202,7 +202,7 @@ transform: scale(1.05) perspective(1px);
 /*Call To Action Sect*/
 
 .cta-bg {
-    background-image: linear-gradient(black, rgb(71, 12, 12));
+    background-image: linear-gradient(rgb(238, 10, 10), rgb(204, 88, 10));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -216,7 +216,7 @@ transform: scale(1.05) perspective(1px);
     margin-top: 100px;
     margin-bottom: 100px;
     padding: 30px;
-    background-image:linear-gradient(rgb(31, 46, 56), rgb(9, 15, 26));
+    background-image:linear-gradient(rgb(235, 38, 12), rgb(26, 16, 9));
     border-radius:15px ;
     opacity: 0.95;
     width: 35%;
